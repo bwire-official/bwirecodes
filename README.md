@@ -22,6 +22,17 @@ This profile is a collection of what I’ve built, what I’m learning, and what
 - **LMS for Medical Students**  
   Learning platform with admin, affiliate, and student dashboards.  
   Role-based access · Custom backend logic
+  
+- **Gas Fee Telegram Bot**  
+  A simple Telegram bot (built with BotFather and Node.js) that checks real-time gas fees across selected blockchains and suggests the best time to transact.  
+  Focused on cost-efficiency and user convenience.
+
+- **Quote Fetcher (Rust)**  
+  My first Rust project — a CLI tool that fetches and displays random quotes from an API.  
+  Built to explore low-level logic and systems programming in Rust.
+
+...plus a few other tools, tests, and ideas I didn’t mention here — some still cooking, some already running.
+
 
 ---
 
